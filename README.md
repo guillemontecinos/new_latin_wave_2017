@@ -1,4 +1,4 @@
-# New Latin Wave Project Application
+# New Latin Wave 2017 - Project Application
 ## Name
 Guillermo Montecinos-Peña
 
